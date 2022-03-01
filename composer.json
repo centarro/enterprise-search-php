@@ -1,6 +1,6 @@
 {
-    "name" : "elastic/enterprise-search",
-    "description" : "Enterprise Search official PHP client",
+    "name" : "centarro/enterprise-search",
+    "description" : "Enterprise Search unofficial PHP client",
     "homepage": "https://github.com/elastic/enterprise-search-php",
     "keywords" : [
         "elastic",
