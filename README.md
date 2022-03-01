@@ -1,7 +1,4 @@
-<p align="center"><img src="https://github.com/elastic/enterprise-search-php/blob/master/logo-enterprise-search.png?raw=true" alt="Elastic Enterprise Search Logo"></p>
-
-
-> A first-party PHP client to interface with [Elastic Enterpise Search](https://www.elastic.co/enterprise-search)
+> A third-party PHP client to interface with [Elastic Enterpise Search](https://www.elastic.co/enterprise-search)
 including [Elastic App Search](https://www.elastic.co/app-search/) and [Elastic Workplace Search](https://www.elastic.co/workplace-search).
 
 ## Contents
